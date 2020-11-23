@@ -1,2 +1,2 @@
 # Sitio web de Alonso Tovar
-Versión beta de sitio web personal.
+Repositorio para la versión beta de mi sitio web personal.
