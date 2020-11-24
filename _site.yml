@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "Alonso Tovar"
   left:
-    - text: "Sobre mí"
+    - text: "Acerca de mí"
       href: index.html
     - text: "Proyectos"
       href: proyectos.html
@@ -13,5 +13,6 @@ navbar:
 output:
   html_document:
     theme: readable
-    highlight: textmate
+    highlight: tango
+    
     
