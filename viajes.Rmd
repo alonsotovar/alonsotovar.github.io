@@ -3,3 +3,15 @@ title: 'Viajes'
 output: html_document
 fontsize: 130%
 ---
+
+<blockquote class="blockquote-reverse">
+  <p>"Oye agarra la maleta, oye y vete pa' fuera!"</p>
+  <small>Frankie Ruiz (1996) en <cite title="Source Title">Viajera </cite></small>
+</blockquote> 
+
+
+<h3> Ecuador </h3>
+
+<h3> Brasil </h3>
+
+<h3> México </h3>
