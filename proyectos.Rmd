@@ -14,8 +14,39 @@ https://covid-19-proyectoperu.github.io/ (Actualizado hasta junio 2020)
 
 <h2>Aplicaciones de los métodos estadísticos en fenómenos políticos </h2>
 
+
+
+
 <p>
 <div style="text-align:justify"> En construcción. </div>
 </p>
 
+```{r , echo=FALSE,eval=TRUE}
+link="https://docs.google.com/spreadsheets/d/e/2PACX-1vRqjetNNHihZ_ltyZh7PKBR_td0Wq9VGLNZXReOc1eYuGeAP4SH_sbPOnNcPobWRyRtxUvtxq8IjZ3S/pub?gid=568572581&single=true&output=csv"
+  
+data<-as.data.frame(read.csv(link))
+data_tabla= data[,c(2,8,11,17,19)]
+names(data_tabla)<- c("Articulo","Revista", "Año", "Modelo empleado", "Enlace")
 
+```
+
+
+```{r d , echo=FALSE,eval=TRUE,warning=FALSE, message=F}
+#install.packages("dplyr")
+#install.packages("DT")
+library(dplyr)
+library(DT)
+data_tabla%>%
+  dplyr::select(Año, Articulo,Revista,"Modelo empleado", Enlace) %>%
+  DT::datatable(
+    options = list(pageLength = 10, 
+                   lengthMenu = c(10, 25, 40),
+                   language = list(lengthMenu = "Mostrar _MENU_ entradas",
+                                   info ="Mostrando _START_ al _END_ de _TOTAL_ entradas",
+                                   search = "Buscar:",
+                                   paginate = list(previous = "Anterior",
+                                                   'next' = "Siguiente"))
+                   ),
+    rownames = FALSE
+  )
+```
