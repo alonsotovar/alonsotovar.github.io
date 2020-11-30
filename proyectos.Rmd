@@ -15,11 +15,11 @@ https://covid-19-proyectoperu.github.io/ (Actualizado hasta junio 2020)
 <h2>Aplicaciones de los métodos estadísticos en fenómenos políticos </h2>
 
 
-
-
 <p>
-<div style="text-align:justify"> En construcción. </div>
+<div style="text-align:justify"> Repositorio de artículos científicos que empleen diversos métodos estadísticos para el estudio de temas de interés en la Ciencia Política </div>
 </p>
+
+https://cutt.ly/WhjHwXh (Repositorio en construcción. Noviembre 2020)
 
 ```{r , echo=FALSE,eval=TRUE}
 link="https://docs.google.com/spreadsheets/d/e/2PACX-1vRqjetNNHihZ_ltyZh7PKBR_td0Wq9VGLNZXReOc1eYuGeAP4SH_sbPOnNcPobWRyRtxUvtxq8IjZ3S/pub?gid=568572581&single=true&output=csv"
@@ -31,16 +31,16 @@ names(data_tabla)<- c("Articulo","Revista", "Año", "Modelo empleado", "Enlace")
 ```
 
 
-```{r d , echo=FALSE,eval=TRUE,warning=FALSE, message=F}
+```{r d , echo=FALSE,eval=TRUE,warning=FALSE, message=FALSE}
 #install.packages("dplyr")
 #install.packages("DT")
 library(dplyr)
 library(DT)
 data_tabla%>%
-  dplyr::select(Año, Articulo,Revista,"Modelo empleado", Enlace) %>%
+  dplyr::select(Año, Articulo,Revista,"Modelo empleado") %>%
   DT::datatable(
-    options = list(pageLength = 10, 
-                   lengthMenu = c(10, 25, 40),
+    options = list(pageLength = 5, 
+                   lengthMenu = c(5, 15, 30),
                    language = list(lengthMenu = "Mostrar _MENU_ entradas",
                                    info ="Mostrando _START_ al _END_ de _TOTAL_ entradas",
                                    search = "Buscar:",
