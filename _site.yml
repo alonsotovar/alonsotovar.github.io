@@ -7,7 +7,7 @@ navbar:
       href: index.html
     - text: "Proyectos"
       href: proyectos.html
-    - text: "Viajes"
+    - text: "Travel blog"
       href: viajes.html
 
 output:

@@ -11,10 +11,6 @@ fontsize: 130%
 
 
 
-<p>
-<div align="center"><img src="perfil.jpg"/width=360 height=360><!-- --></div>
-</p>
-
 
 <p>
 <div style="text-align:justify"> Bachiller en Ciencia Política por la Universidad Nacional Mayor de San Marcos (UNMSM). Estudiante de la Maestría en Estadística Aplicada de la Universidad Nacional Agraria La Molina (UNALM).

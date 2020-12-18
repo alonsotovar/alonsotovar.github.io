@@ -1,5 +1,5 @@
 ---
-title: 'Viajes'
+title: 'Travel blog'
 output: html_document
 fontsize: 130%
 ---
