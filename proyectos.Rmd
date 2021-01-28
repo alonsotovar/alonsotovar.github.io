@@ -19,7 +19,7 @@ https://covid-19-proyectoperu.github.io/ (Actualizado hasta junio 2020)
 <div style="text-align:justify"> Repositorio de artículos científicos que empleen diversos métodos estadísticos para el estudio de temas de interés en la Ciencia Política </div>
 </p>
 
-https://cutt.ly/WhjHwXh (Repositorio en construcción. Noviembre 2020)
+https://drive.google.com/file/d/1UGe0HqDCLj2l2eztC5e3yNv83v_CnVbj/view?usp=sharing (Repositorio en construcción. Noviembre 2020)
 
 ```{r , echo=FALSE,eval=TRUE}
 link="https://docs.google.com/spreadsheets/d/e/2PACX-1vRqjetNNHihZ_ltyZh7PKBR_td0Wq9VGLNZXReOc1eYuGeAP4SH_sbPOnNcPobWRyRtxUvtxq8IjZ3S/pub?gid=568572581&single=true&output=csv"
