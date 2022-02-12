@@ -5,8 +5,14 @@ navbar:
   left:
     - text: "Acerca de mí"
       href: index.html
+    - text: "CV"
+      href: cv.html  
     - text: "Proyectos"
       href: proyectos.html
+    - text: "Publicaciones"
+      href: Publicaciones.html  
+    - text: "R para peques"
+      href: R-para-peques.html
 output:
   html_document:
     theme: readable
