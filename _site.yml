@@ -1,12 +1,12 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Alonso Tovar"
   left:
-    - text: "Home"
+    - text: "Acerca de mí"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Proyectos"
+      href: proyectos.html
 output:
   html_document:
     theme: readable
