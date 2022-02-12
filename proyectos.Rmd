@@ -31,7 +31,7 @@ names(data_tabla)<- c("Articulo","Revista", "Año", "Modelo empleado", "Enlace")
 ```
 
 
-```{r d , echo=FALSE,eval=FALSE,warning=FALSE, message=FALSE}
+```{r  warning=FALSE, message=FALSE}
 #install.packages("dplyr")
 #install.packages("DT")
 library(dplyr)
