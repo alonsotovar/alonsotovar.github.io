@@ -56,5 +56,6 @@ data_tabla%>%
 <p>
 <div style="text-align:justify"> Este proyecto de investigación se inicio en el año 2017 con el interés de explorar los determinantes de la aprobación de la alcaldía de Lima. En ese momento el estudio fue de carácter descriptivo, ahora al contar con nuevas gestiones, nuevos datos y mejores herramientas de análisis se espera retomar el proyecto de cara a las Elecciones Regionales y Locales 2022 </div>
 
+
 <div style="text-align:justify"> [Documento inicial](https://www.academia.edu/40808053/_Alcaldes_aprobados_alcald%C3%ADas_desaprobadas_Un_estudio_acerca_de_la_aprobaci%C3%B3n_gubernamental_local_en_Lima_Metropolitana) presentado en el Macrocoloquio 2017, coautoría con Joel Celis Salazar </div>
 </p>
