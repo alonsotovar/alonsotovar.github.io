@@ -9,7 +9,9 @@ fontsize: 130%
 <img class="circular--square" src="/cloud/project/1583971098998.jpg" width="400" height="400" align="right"> Soy estudiante de la Maestría en Estadística Aplicada de la Universidad Nacional Agraria La Molina (UNALM). Me gradué en Ciencia Política por la Universidad Nacional Mayor de San Marcos (UNMSM), allá por el lejano 2019.
 
 
-Siempre estoy aprendiendo sobre de indicadores sociales y económicos, nuevas metodologías,modernización de la gestión pública e investigación sobre instituciones políticas. He trabajado en el sector público y consultorías de proyectos utilizando bases de datos del INEI y datos abiertos del Estado Peruano.  Actualmente, me dedico a investigar sobre juventudes para [Equilibrium CenDE](https://equilibriumcende.com/)
+Siempre estoy aprendiendo sobre de indicadores sociales y económicos, nuevas metodologías,modernización de la gestión pública e investigación sobre instituciones políticas. He trabajado en el sector público y consultorías de proyectos utilizando bases de datos del INEI y datos abiertos del Estado Peruano.  
+
+Actualmente, me dedico a investigar sobre juventudes para [Equilibrium CenDE](https://equilibriumcende.com/)
 
 Este será mi espacio digital donde compartiré parte de mi trabajo, materiales sobre estadística y cosas nuevas que vaya aprendiendo en el camino.
 </p>
