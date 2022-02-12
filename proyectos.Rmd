@@ -7,10 +7,10 @@ fontsize: 130%
 <h2>Decisiones públicas del Estado Peruano frente al COVID-19 </h2>
 
 <p>
-<div style="text-align:justify"> Este portal fue un esfuerzo conjunto de politólogos para realizar un monitoreo de las decisiones políticas adoptadas por el gobierno peruano en respuesta a la pandemia del nuevo coronavirus (SARS-CoV-2). Dicho esfuerzo se complementa con la aplicación de una serie de conceptos para el estudio de políticas públicas como instrumentos de políticas, conflictividad social, redes de coordinación, agenda de problemas públicos, entre otros. </div>
+<div style="text-align:justify"> Este portal fue un esfuerzo conjunto de politólogos para realizar un monitoreo de las decisiones políticas adoptadas por el gobierno peruano en respuesta a la pandemia del nuevo coronavirus (SARS-CoV-2). Dicho esfuerzo se complementa con la aplicación de una serie de conceptos para el estudio de políticas públicas como instrumentos de políticas, conflictividad social, redes de coordinación, agenda de problemas públicos, entre otros. (Actualizado hasta junio 2020) </div>
 </p>
 
-https://covid-19-proyectoperu.github.io/ (Actualizado hasta junio 2020)
+https://covid-19-proyectoperu.github.io/ 
 
 <h2>Aplicaciones de los métodos estadísticos en fenómenos políticos </h2>
 
